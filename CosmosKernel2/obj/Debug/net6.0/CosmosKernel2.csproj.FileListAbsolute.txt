@@ -1,0 +1,48 @@
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.deps.json
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfo.cs
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\refint\CosmosKernel2.dll
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\CosmosKernel2\CosmosKernel2\obj\Debug\net6.0\ref\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.deps.json
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfo.cs
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\refint\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\STELL DOS 1.1\CosmosKernel2\obj\Debug\net6.0\ref\CosmosKernel2.dll
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.deps.json
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfo.cs
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\refint\CosmosKernel2.dll
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\SDOS122\CosmosKernel2\obj\Debug\net6.0\ref\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.deps.json
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\bin\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.AssemblyInfo.cs
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\refint\CosmosKernel2.dll
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\CosmosKernel2.pdb
+C:\Users\Home\source\repos\STELLDOS13\CosmosKernel2\obj\Debug\net6.0\ref\CosmosKernel2.dll
